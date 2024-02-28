@@ -1,0 +1,781 @@
+.portfolio,
+.portfolio * {
+  box-sizing: border-box;
+}
+.portfolio {
+  background: #000000;
+  height: 3290px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-3 {
+  width: 1482px;
+  height: 1052px;
+  position: absolute;
+  left: -25px;
+  top: 36px;
+  object-fit: cover;
+}
+.portfolio2 {
+  color: #31c737;
+  text-align: left;
+  font-family: "Sen-ExtraBold", sans-serif;
+  font-size: 64px;
+  font-weight: 800;
+  text-decoration: underline;
+  position: absolute;
+  left: 80px;
+  top: 51px;
+  width: 380px;
+  height: 84px;
+}
+.home {
+  width: 156px;
+  height: 34px;
+  position: absolute;
+  left: 535px;
+  top: 71px;
+}
+.home2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Sen-ExtraBold", sans-serif;
+  font-size: 32px;
+  font-weight: 800;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.about {
+  width: 137px;
+  height: 28px;
+  position: absolute;
+  left: 691px;
+  top: 71px;
+}
+.about2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Sen-ExtraBold", sans-serif;
+  font-size: 32px;
+  font-weight: 800;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.services {
+  width: 181px;
+  height: 30px;
+  position: absolute;
+  left: 876px;
+  top: 66px;
+}
+.services2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Sen-ExtraBold", sans-serif;
+  font-size: 32px;
+  font-weight: 800;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.contact {
+  width: 171px;
+  height: 24px;
+  position: absolute;
+  left: 1092px;
+  top: 69px;
+}
+.contact2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Sen-ExtraBold", sans-serif;
+  font-size: 32px;
+  font-weight: 800;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.hey-there {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Sen-ExtraBold", sans-serif;
+  font-size: 40px;
+  font-weight: 800;
+  position: absolute;
+  right: 44.72%;
+  left: 38.54%;
+  width: 16.74%;
+  top: 224px;
+  height: 53px;
+}
+.i-m-leonel-loria {
+  text-align: left;
+  font-family: "Sen-ExtraBold", sans-serif;
+  font-size: 64px;
+  font-weight: 800;
+  position: absolute;
+  right: 20.76%;
+  left: 38.47%;
+  width: 40.76%;
+  bottom: 88.87%;
+  top: 8.45%;
+  height: 2.69%;
+}
+.i-m-leonel-loria-span {
+  color: #ffffff;
+  font-family: "Sen-ExtraBold", sans-serif;
+  font-size: 64px;
+  font-weight: 800;
+}
+.i-m-leonel-loria-span2 {
+  color: #14ff00;
+  font-family: "Sen-ExtraBold", sans-serif;
+  font-size: 64px;
+  font-weight: 800;
+}
+.ready-to-embrace-challenges-and-grow-in-the-field-of-web-development-with-a-hunger-for-learning {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Sen-ExtraBold", sans-serif;
+  font-size: 48px;
+  font-weight: 800;
+  position: absolute;
+  right: 6.94%;
+  left: 38.47%;
+  width: 54.58%;
+  top: 366px;
+  height: 181px;
+}
+.git-hub {
+  width: 90px;
+  height: 90px;
+  position: absolute;
+  left: 1274px;
+  top: 36px;
+  overflow: visible;
+  object-fit: cover;
+}
+.rectangle-6 {
+  background: #1e1e1e;
+  width: 1491px;
+  height: 772px;
+  position: absolute;
+  left: -22px;
+  top: 899px;
+  box-shadow: 0px 4px 20.3px 0px rgba(0, 0, 0, 0.25);
+}
+.about-me {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Solway-ExtraBold", sans-serif;
+  font-size: 64px;
+  font-weight: 800;
+  position: absolute;
+  left: 193px;
+  top: 932px;
+  width: 380px;
+  height: 106px;
+}
+.ellipse-1 {
+  background: #14ff00;
+  border-radius: 50%;
+  width: 282px;
+  height: 264px;
+  position: absolute;
+  left: 80px;
+  top: 250px;
+  filter: blur(31.25px);
+}
+.ellipse-2 {
+  background: #37ffdb;
+  border-radius: 50%;
+  width: 326px;
+  height: 295px;
+  position: absolute;
+  left: 58px;
+  top: 252px;
+  filter: blur(4.8px);
+}
+.ellipse-5 {
+  background: #37ffdb;
+  border-radius: 50%;
+  width: 252px;
+  height: 264px;
+  position: absolute;
+  left: 973px;
+  top: 1146px;
+  filter: blur(59.55px);
+}
+.ellipse-6 {
+  background: #d737ff;
+  border-radius: 50%;
+  width: 405px;
+  height: 378px;
+  position: absolute;
+  left: 914px;
+  top: 1077px;
+  filter: blur(5.8px);
+}
+.onel-1 {
+  width: 547px;
+  height: 672px;
+  position: absolute;
+  left: -47px;
+  top: -158px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  object-fit: cover;
+}
+.line-1 {
+  border-style: solid;
+  border-color: #14ff00;
+  border-width: 1px 0 0 0;
+  width: 430px;
+  height: 0px;
+  position: absolute;
+  left: 152px;
+  top: 1009px;
+  filter: blur(4.05px);
+}
+.aspiring-web-developer-x-web-designer {
+  text-align: left;
+  font-family: "Solway-ExtraBold", sans-serif;
+  font-size: 32px;
+  font-weight: 800;
+  position: absolute;
+  left: 152px;
+  top: 1024px;
+  width: 536px;
+  height: 91px;
+}
+.aspiring-web-developer-x-web-designer-span {
+  color: #ffffff;
+  font-family: "Solway-ExtraBold", sans-serif;
+  font-size: 32px;
+  font-weight: 800;
+}
+.aspiring-web-developer-x-web-designer-span2 {
+  color: #d737ff;
+  font-family: "Solway-ExtraBold", sans-serif;
+  font-size: 32px;
+  font-weight: 800;
+}
+.aspiring-web-developer-x-web-designer-span3 {
+  color: #ffffff;
+  font-family: "Solway-ExtraBold", sans-serif;
+  font-size: 32px;
+  font-weight: 800;
+}
+.aspiring-web-developer-x-web-designer-span4 {
+  color: #14ff00;
+  font-family: "Solway-ExtraBold", sans-serif;
+  font-size: 32px;
+  font-weight: 800;
+}
+._245428652-4388815307869012-563257824426429909-n-1-removebg-preview-1 {
+  width: 377px;
+  height: 496px;
+  position: absolute;
+  left: 928px;
+  top: 914px;
+  object-fit: cover;
+}
+.rectangle-7 {
+  background: #347166;
+  width: 1483px;
+  height: 757px;
+  position: absolute;
+  left: -17px;
+  top: 1608px;
+}
+.html-5 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 950px;
+  top: 1825px;
+  width: 181px;
+  height: 29px;
+}
+.ellipse-9 {
+  background: #37ffdb;
+  border-radius: 50%;
+  width: 124px;
+  height: 118px;
+  position: absolute;
+  left: 914px;
+  top: 1700px;
+  filter: blur(2.6px);
+}
+.my-skills {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Solway-ExtraBold", sans-serif;
+  font-size: 48px;
+  font-weight: 800;
+  position: absolute;
+  left: 613px;
+  top: 1610px;
+  width: 395px;
+  height: 70px;
+}
+.rectangle-8 {
+  background: #d9d9d9;
+  width: 1040px;
+  height: 566px;
+  position: absolute;
+  left: 183px;
+  top: 2522px;
+}
+.rectangle-9 {
+  background: #5337ff;
+  width: 530px;
+  height: 566px;
+  position: absolute;
+  left: 159px;
+  top: 2522px;
+}
+.contact-me {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Solway-ExtraBold", sans-serif;
+  font-size: 24px;
+  font-weight: 800;
+  position: absolute;
+  left: 247px;
+  top: 2587px;
+  width: 211px;
+  height: 60px;
+}
+.i-m-here-to-help-you {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Solway-ExtraBold", sans-serif;
+  font-size: 24px;
+  font-weight: 800;
+  position: absolute;
+  left: 247px;
+  top: 2617px;
+  width: 273px;
+  height: 45px;
+}
+.phone-63912-346-1708 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Solway-ExtraBold", sans-serif;
+  font-size: 20px;
+  font-weight: 800;
+  position: absolute;
+  left: 325px;
+  top: 2662px;
+  width: 223px;
+  height: 56px;
+}
+.ringer-volume {
+  width: 49px;
+  height: 56px;
+  position: absolute;
+  left: 243px;
+  top: 2662px;
+  object-fit: cover;
+}
+.email {
+  width: 45px;
+  height: 46px;
+  position: absolute;
+  left: 250px;
+  top: 2762px;
+  object-fit: cover;
+}
+.location {
+  width: 50px;
+  height: 44px;
+  position: absolute;
+  left: 247px;
+  top: 2876px;
+  object-fit: cover;
+}
+.let-s-talk {
+  color: #000000;
+  text-align: left;
+  font-family: "Solway-ExtraBold", sans-serif;
+  font-size: 36px;
+  font-weight: 800;
+  position: absolute;
+  left: 743px;
+  top: 2576px;
+  width: 250px;
+  height: 40px;
+}
+.email-loriaonel-270-gmail-com {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Solway-ExtraBold", sans-serif;
+  font-size: 20px;
+  font-weight: 800;
+  position: absolute;
+  left: 325px;
+  top: 2766px;
+  width: 263px;
+  height: 42px;
+}
+.location-pagbilao-quezon {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Solway-ExtraBold", sans-serif;
+  font-size: 20px;
+  font-weight: 800;
+  position: absolute;
+  left: 325px;
+  top: 2879px;
+  width: 263px;
+  height: 42px;
+}
+.feel-free-to-drop-in-line-below {
+  color: #5337ff;
+  text-align: left;
+  font-family: "Solway-ExtraBold", sans-serif;
+  font-size: 20px;
+  font-weight: 800;
+  position: absolute;
+  left: 743px;
+  top: 2637px;
+  width: 325px;
+  height: 35px;
+}
+.rectangle-10 {
+  background: rgba(177, 177, 177, 0.47);
+  border-radius: 50px;
+  width: 338px;
+  height: 33px;
+  position: absolute;
+  left: 730px;
+  top: 2681px;
+}
+.rectangle-14 {
+  background: rgba(177, 177, 177, 0.47);
+  border-radius: 50px;
+  width: 338px;
+  height: 33px;
+  position: absolute;
+  left: 730px;
+  top: 2745px;
+}
+.your-email {
+  color: #828282;
+  text-align: left;
+  font-family: "Solway-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 743px;
+  top: 2753px;
+  width: 130px;
+  height: 18px;
+}
+.rectangle-15 {
+  background: rgba(177, 177, 177, 0.47);
+  border-radius: 50px;
+  width: 338px;
+  height: 33px;
+  position: absolute;
+  left: 730px;
+  top: 2808px;
+}
+.phone-number {
+  color: #828282;
+  text-align: left;
+  font-family: "Solway-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 737px;
+  top: 2815px;
+  width: 157px;
+  height: 18px;
+}
+.rectangle-13 {
+  background: rgba(177, 177, 177, 0.47);
+  width: 338px;
+  height: 176px;
+  position: absolute;
+  left: 737px;
+  top: 2879px;
+}
+.message {
+  color: #828282;
+  text-align: left;
+  font-family: "Solway-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 743px;
+  top: 2885px;
+  width: 130px;
+  height: 18px;
+}
+.your-name {
+  color: #969696;
+  text-align: left;
+  font-family: "Solway-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 737px;
+  top: 2686px;
+  width: 130px;
+  height: 18px;
+}
+.icons-8-javascript-48-1 {
+  border-radius: 50px;
+  width: 103px;
+  height: 102px;
+  position: absolute;
+  left: 924px;
+  top: 1709px;
+  object-fit: cover;
+}
+.icons-8-html-48-1 {
+  width: 119px;
+  height: 104px;
+  position: absolute;
+  left: 277px;
+  top: 1707px;
+  object-fit: cover;
+}
+.lorem-ipsum-is-a-placeholder-text-used-in-design-and-publishing-to-fill-a-space-without-saying-anything-meaningful-it-is-essentially-nonsense-text-that-gives-an-idea-of-what-real-words-will-look-like-in-the-final-product {
+  color: #000000;
+  text-align: left;
+  font-family: "Sen-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 244px;
+  top: 1855px;
+  width: 195px;
+  height: 117px;
+}
+.lorem-ipsum-is-a-placeholder-text-used-in-design-and-publishing-to-fill-a-space-without-saying-anything-meaningful-it-is-essentially-nonsense-text-that-gives-an-idea-of-what-real-words-will-look-like-in-the-final-product2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 239px;
+  top: 2157px;
+  width: 195px;
+  height: 117px;
+}
+.lorem-ipsum-is-a-placeholder-text-used-in-design-and-publishing-to-fill-a-space-without-saying-anything-meaningful-it-is-essentially-nonsense-text-that-gives-an-idea-of-what-real-words-will-look-like-in-the-final-product3 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 568px;
+  top: 2157px;
+  width: 195px;
+  height: 117px;
+}
+.lorem-ipsum-is-a-placeholder-text-used-in-design-and-publishing-to-fill-a-space-without-saying-anything-meaningful-it-is-essentially-nonsense-text-that-gives-an-idea-of-what-real-words-will-look-like-in-the-final-product4 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 570px;
+  top: 1855px;
+  width: 195px;
+  height: 117px;
+}
+.lorem-ipsum-is-a-placeholder-text-used-in-design-and-publishing-to-fill-a-space-without-saying-anything-meaningful-it-is-essentially-nonsense-text-that-gives-an-idea-of-what-real-words-will-look-like-in-the-final-product5 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 896px;
+  top: 1855px;
+  width: 195px;
+  height: 117px;
+}
+.icons-8-css-48-1 {
+  width: 117px;
+  height: 91px;
+  position: absolute;
+  left: 603px;
+  top: 1720px;
+  object-fit: cover;
+}
+.ellipse-7 {
+  background: #37ffdb;
+  border-radius: 50%;
+  width: 124px;
+  height: 118px;
+  position: absolute;
+  left: 272px;
+  top: 1700px;
+  filter: blur(2.6px);
+}
+.ellipse-8 {
+  background: #37ffdb;
+  border-radius: 50%;
+  width: 124px;
+  height: 118px;
+  position: absolute;
+  left: 603px;
+  top: 1707px;
+  filter: blur(2.6px);
+}
+.ellipse-10 {
+  background: #37ffdb;
+  border-radius: 50%;
+  width: 124px;
+  height: 118px;
+  position: absolute;
+  left: 265px;
+  top: 2016px;
+  filter: blur(2.6px);
+}
+.ellipse-11 {
+  background: #37ffdb;
+  border-radius: 50%;
+  width: 124px;
+  height: 118px;
+  position: absolute;
+  left: 601px;
+  top: 2026px;
+  filter: blur(2.6px);
+}
+.html-52 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Sen-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 286px;
+  top: 1824px;
+  width: 181px;
+  height: 29px;
+}
+.css-3 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Sen-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 638px;
+  top: 1829px;
+  width: 181px;
+  height: 20px;
+}
+.icons-8-python-48-1 {
+  width: 98px;
+  height: 98px;
+  position: absolute;
+  left: 278px;
+  top: 2026px;
+  object-fit: cover;
+}
+.icons-8-postgresql-100-1 {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: 613px;
+  top: 2035px;
+  object-fit: cover;
+}
+.rectangle-16 {
+  background: #d9d9d9;
+  border-radius: 53px;
+  width: 1252px;
+  height: 639px;
+  position: absolute;
+  left: 92px;
+  top: 1675px;
+}
+.ellipse-12 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  width: 462px;
+  height: 459px;
+  position: absolute;
+  left: 169px;
+  top: 2532px;
+}
+.ellipse-13 {
+  background: #37ffdb;
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 372px;
+  height: 314px;
+  position: absolute;
+  left: 1254px;
+  top: -167px;
+  filter: blur(173.4px);
+}
+.to-obtain-a-position-that-challenges-me-and-provides-me-the-opportunity-to-reach-my-full-potential-professionally-and-personally-utilizing-my-abilities-and-years-of-experience-in-your-organization-that-is-progressive-intellectually-and-technically-and-one-in-which-practices-collaborative-leadership-integrity-and-honesty {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Sen-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 152px;
+  top: 1143px;
+  width: 506px;
+  height: 357px;
+}
+.rectangle-17 {
+  background: #ffffff;
+  border-radius: 20px;
+  width: 533px;
+  height: 299px;
+  position: absolute;
+  left: 139px;
+  top: 1116px;
+}
+.facebook-circled {
+  width: 75px;
+  height: 78px;
+  position: absolute;
+  left: 152px;
+  top: 1341px;
+  object-fit: cover;
+}
+.you-tube {
+  width: 69px;
+  height: 91px;
+  position: absolute;
+  left: 284px;
+  top: 1334px;
+  object-fit: cover;
+}
